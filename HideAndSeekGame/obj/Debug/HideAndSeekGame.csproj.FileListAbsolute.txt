@@ -1,0 +1,7 @@
+C:\Users\Lauren\Documents\Eleven Fifty Academy\ElevenFIftyProjects\DotNetProjects\HideAndSeekGame\HideAndSeekGame\bin\Debug\HideAndSeekGame.exe.config
+C:\Users\Lauren\Documents\Eleven Fifty Academy\ElevenFIftyProjects\DotNetProjects\HideAndSeekGame\HideAndSeekGame\bin\Debug\HideAndSeekGame.exe
+C:\Users\Lauren\Documents\Eleven Fifty Academy\ElevenFIftyProjects\DotNetProjects\HideAndSeekGame\HideAndSeekGame\bin\Debug\HideAndSeekGame.pdb
+C:\Users\Lauren\Documents\Eleven Fifty Academy\ElevenFIftyProjects\DotNetProjects\HideAndSeekGame\HideAndSeekGame\obj\Debug\HideAndSeekGame.csproj.AssemblyReference.cache
+C:\Users\Lauren\Documents\Eleven Fifty Academy\ElevenFIftyProjects\DotNetProjects\HideAndSeekGame\HideAndSeekGame\obj\Debug\HideAndSeekGame.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\Documents\Eleven Fifty Academy\ElevenFIftyProjects\DotNetProjects\HideAndSeekGame\HideAndSeekGame\obj\Debug\HideAndSeekGame.exe
+C:\Users\Lauren\Documents\Eleven Fifty Academy\ElevenFIftyProjects\DotNetProjects\HideAndSeekGame\HideAndSeekGame\obj\Debug\HideAndSeekGame.pdb
